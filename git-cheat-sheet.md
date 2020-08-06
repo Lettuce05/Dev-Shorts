@@ -1,8 +1,3 @@
----
-title: "Git Cheat Sheet"
-tags: ""
----
-
 # Git Cheat Sheet
 
 **Create a new repository from current directory**
