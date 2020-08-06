@@ -1,5 +1,3 @@
-
-
 # This is a header
 
 This is regular text
