@@ -1,8 +1,3 @@
----
-title: "Unity - Making a Character/GameObject Jump"
-tags: "Unity"
----
-
 # Making a Character/GameObject Jump
 
 In Unity you can use the physics engine to add force to a character or gameObject, for example making a character jump. This can be done using the AddForce method that belongs to the RigidBody Class. 
