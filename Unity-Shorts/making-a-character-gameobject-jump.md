@@ -53,7 +53,9 @@ The AddForce method takes three parameters for the direction and amount of force
     -   ForceMode.Acceleration = Add a continuous acceleration to the rigidbody, ignoring its mass
     -   ForceMode.Impulse = Add an instant force impulse to the rigidbody, using its mass
     -   ForceMode.VelocityChange = Add an instant velocity change to the rigidbody, ignoring its mass
+    
 <br></br>
+
 Instead of giving distinct values for each axis, you can replace it with a Vector3 or Tranform method(to specify direction) and then multiply that method by the amount of force desired.
 
 ```C#
