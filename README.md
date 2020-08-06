@@ -14,3 +14,8 @@ This series is inspired by the Feynman technique. Richard Feynman developed a st
    4. Organize, simplify, and tell a story
 
 The "Shorts" version of each subject/book covers step 4, and the "Shorts Extended" version covers steps 1 and 3.
+
+# Current Shorts
+### [Web Dev Shorts](https://github.com/Lettuce05/Dev-Shorts/tree/master/Web-Dev-Shorts)
+
+### [Unity Shorts](https://github.com/Lettuce05/Dev-Shorts/tree/master/Unity-Shorts)
