@@ -1,7 +1,4 @@
----
-title: "My First Markdown Note"
-tags: "CS202"
----
+
 
 # This is a header
 
