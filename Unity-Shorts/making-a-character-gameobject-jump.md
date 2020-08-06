@@ -9,6 +9,7 @@ In order to add force to an object you must first create/get access to the game 
 player/GameObject*/
 private Rigidbody playerRb;
 ```
+<br></br>
 
 Next, to get access to the properties of your players rigid body, you must get the rigid body component and set the player rigid body to it. (This must be set in Unity's default Start method)
 
@@ -18,7 +19,7 @@ void Start()
 	playerRb = GetComponent<Rigidbody>();
 }
 ```
-
+<br></br>
 Now that you have access to your player's rigid body component, you can use the RigidBody.AddForce method. I will include basic documentation for the method at the bottom of this example/tutorial. In the example below we are adding a force on the y axis(aka. an upward force), making the character jump.
 
 ```C#
@@ -29,7 +30,7 @@ playerRb.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
 //jumpForce = amount of Force
 //ForceMode.Impulse = applies the force immediately
 ```
-
+<br></br>
 Thats all there is to adding force to an object in Unity, I hope this helped!
 
 # Method Documentation
@@ -41,7 +42,7 @@ Function Definition:
 ```C#
 public void AddForce(float x, float y, float z, ForceMode mode = ForceMode.Force);
 ```
-
+<br></br>
 The AddForce method takes three parameters for the direction and amount of force, and one parameter for the mode(how the force will be applied).
 
 1.  x = amount of force applied in the direction of the x-axis(left or right)
@@ -52,7 +53,7 @@ The AddForce method takes three parameters for the direction and amount of force
     -   ForceMode.Acceleration = Add a continuous acceleration to the rigidbody, ignoring its mass
     -   ForceMode.Impulse = Add an instant force impulse to the rigidbody, using its mass
     -   ForceMode.VelocityChange = Add an instant velocity change to the rigidbody, ignoring its mass
-
+<br></br>
 Instead of giving distinct values for each axis, you can replace it with a Vector3 or Tranform method(to specify direction) and then multiply that method by the amount of force desired.
 
 ```C#
