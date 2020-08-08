@@ -1,8 +1,3 @@
----
-title: "How the Internet Works"
-tags: ""
----
-
 # How the Internet Works
 
 ### The internet is just a very complex vending machine.
