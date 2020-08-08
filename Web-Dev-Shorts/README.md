@@ -14,3 +14,4 @@ This book is inspired by the Feynman technique. Richard Feynman developed a stud
 This book will only focus on the last component but I have another book(Web Dev Shorts Extended) where all of my studies will be recorded which is covered by steps one and three of Feynman's Technique.
 
 # Contents
+### [How the Internet Works](https://github.com/Lettuce05/Dev-Shorts/blob/master/Web-Dev-Shorts/how-the-internet-works.md)
