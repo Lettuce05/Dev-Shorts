@@ -19,3 +19,5 @@ The "Shorts" version of each subject/book covers step 4, and the "Shorts Extende
 ### [Web Dev Shorts](https://github.com/Lettuce05/Dev-Shorts/tree/master/Web-Dev-Shorts)
 
 ### [Unity Shorts](https://github.com/Lettuce05/Dev-Shorts/tree/master/Unity-Shorts)
+
+### [Git Cheat Sheet](https://github.com/Lettuce05/Dev-Shorts/blob/master/git-cheat-sheet.md)
