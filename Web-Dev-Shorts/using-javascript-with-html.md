@@ -1,7 +1,3 @@
----
-title: "Using Javascript with HTML"
-tags: "JS"
----
 
 # Using Javascript with HTML
 
