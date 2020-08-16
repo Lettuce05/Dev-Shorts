@@ -15,3 +15,4 @@ This book will only focus on the last component but I have another book(Web Dev 
 
 # Contents
 ### [How the Internet Works](https://github.com/Lettuce05/Dev-Shorts/blob/master/Web-Dev-Shorts/how-the-internet-works.md)
+### [Using Javascript with HTML](https://github.com/Lettuce05/Dev-Shorts/blob/master/Web-Dev-Shorts/using-javascript-with-html.md)
