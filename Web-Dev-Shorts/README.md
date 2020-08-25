@@ -16,4 +16,4 @@ This book will only focus on the last component but I have another book(Web Dev 
 # Contents
 ### [How the Internet Works](https://github.com/Lettuce05/Dev-Shorts/blob/master/Web-Dev-Shorts/how-the-internet-works.md)
 ### [Using JavaScript with HTML](https://github.com/Lettuce05/Dev-Shorts/blob/master/Web-Dev-Shorts/using-javascript-with-html.md)
-### [Troubleshooting JavaScript]()
+### [Troubleshooting JavaScript](https://github.com/Lettuce05/Dev-Shorts/blob/master/Web-Dev-Shorts/troubleshooting-javascript.md)
