@@ -1,8 +1,3 @@
----
-title: "Troubleshooting JavaScript"
-tags: "JS"
----
-
 # Troubleshooting JavaScript
 
 ## Types of error
